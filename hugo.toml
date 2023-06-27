@@ -29,7 +29,7 @@ Then I did another master’s in digital economics and innovation
 at Paris-Dauphine University.I'm committed to the fight against
 gender inequality in STEM 🤖 (see: ANITI's gender equality commission and women and mathematics association). In my spare time,
 I practice crossfit and weightlifting.
-I also danced ballet for over 17 years before that."
+I also danced ballet for over 17 years before that.
 '''
 
 
@@ -43,7 +43,7 @@ url = "<mailto:fanny.jourdan@irit.fr>"
 
 [[params.socialIcons]]
 name = "googlescholar"
-url = "<https://scholar.google.com/citations?user=ntU8A30AAAAJ&hl=fr>"
+url = "https://scholar.google.com/citations?user=ntU8A30AAAAJ&hl=fr"
 
 [[params.socialIcons]]
 name = "github"
