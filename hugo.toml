@@ -35,11 +35,11 @@ I also danced ballet for over 17 years before that.
 
 [[params.socialIcons]]
 name = "cv"
-url = "<link2>"
+url = "<static/files/CV_fannyjourdan.pdf>"
 
 [[params.socialIcons]]
 name = "email"
-url = "<mailto:fanny.jourdan@irit.fr>"
+url = "mailto:fanny.jourdan@irit.fr"
 
 [[params.socialIcons]]
 name = "googlescholar"
@@ -47,14 +47,14 @@ url = "https://scholar.google.com/citations?user=ntU8A30AAAAJ&hl=fr"
 
 [[params.socialIcons]]
 name = "github"
-url = "<https://github.com/fanny-jourdan>"
+url = "https://github.com/fanny-jourdan"
 
 [[params.socialIcons]]
 name = "twitter"
-url = "<https://twitter.com/Fannyjrd_>"
+url = "https://twitter.com/Fannyjrd_"
 
 [[params.socialIcons]]
 name = "linkedin"
-url = "<https://www.linkedin.com/in/fanny-jourdan/>"
+url = "https://www.linkedin.com/in/fanny-jourdan/"
 
 	
