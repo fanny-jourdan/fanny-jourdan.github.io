@@ -41,6 +41,7 @@ If you would like to contact me, you can find my CV and contact details here ⬇
 [[params.socialIcons]]
 name = "cv"
 url = "https://github.com/fanny-jourdan/fanny-jourdan.github.io/blob/b0c13908487d7bd8bd244d07f9b53d2faeaf39d8/static/files/CV_fannyjourdan.pdf"
+pre = "Download CV"
 
 [[params.socialIcons]]
 name = "email"
