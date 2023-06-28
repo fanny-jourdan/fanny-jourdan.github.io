@@ -13,12 +13,33 @@ theme = "PaperMod"
 # imageHeight = 120 # custom size
 [params.profileMode]
 enabled = true
-title = "About me"
-subtitle = "This is subtitle"
+title = "Hi! My name is Fanny Jourdan."
+subtitle = '''
+I am PhD Student in mathematics and computer science at Institut
+de Recherche en Informatique de Toulouse and Artificial and
+Natural Intelligence Toulouse Institut.
+I'm also a member of the brilliant DEEL team 🤩.
+My two amazing supervisors are Nicholas Asher and Laurent Risser.
+My interest topics are Fairness, Explainability and Robustness of 
+Natural Language Processing algorithms.
+
+Previously I did a master’s in mathematics and data sciences 
+at Ecole Polytechnique, where I co-founded the Artificial 
+Intelligence Alumni Association (AlumnIA).
+Then I did another master’s in digital economics and innovation
+at Paris-Dauphine University.
+
+I'm committed to the fight against
+gender inequality in STEM 🤖 (see: ANITI's gender equality commission and women and mathematics association). In my spare time,
+I practice crossfit and weightlifting.
+I also danced ballet for over 17 years before that. 
+
+If you would like to contact me, you can find my CV and contact details here ⬇️.
+'''
 imageUrl = "/img/FannyJourdanphoto.jpg"
-imageTitle = "Image alt text"
-imageWidth = 120
-imageHeight = 120
+imageTitle = "Photo"
+imageWidth = 250
+imageHeight = 250
 
 
 [params.homeInfoParams]
