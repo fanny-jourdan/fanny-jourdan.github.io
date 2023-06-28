@@ -1,7 +1,7 @@
 <div class="social-icons">
     {{- range . }}
     {{- if eq .name "cv" }}
-    <a href="#" data-href="/static/files/CV_fannyjourdan.pdf" download>
+    <a href="/static/files/CV_fannyjourdan.pdf" download="{{ trimSuffix (path.Base "/static/files/CV_fannyjourdan.pdf") ".pdf" }}">
         {{ partial "svg.html" . }}
     </a>
     {{- else }}
