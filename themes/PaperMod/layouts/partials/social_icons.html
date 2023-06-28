@@ -1,8 +1,8 @@
 <div class="social-icons">
     {{- range . }}
     {{- if eq .name "cv" }}
-    <a href="{{ .url }}" download="{{ .name }}" target="_blank" rel="noopener noreferrer me" title="{{ .name }}">
-        {{ partial "svg" . }}
+    <a href="{{ .url }}" download="{{ .name.pdf }}" target="_blank" rel="noopener noreferrer me" title="{{ .name }}">
+        {{ partial "svg.html" . }}
     </a>
     {{- else }}
         <a href="{{ trim .url " " }}" target="_blank" rel="noopener noreferrer me" title="{{ (.title | default .name) | title }}">
