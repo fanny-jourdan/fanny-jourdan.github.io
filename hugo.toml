@@ -23,7 +23,6 @@ My two amazing supervisors are Nicholas Asher and Laurent Risser.
 My interest topics are Fairness, Explainability and Robustness of 
 Natural Language Processing algorithms.
 
-
 Previously I did a master’s in mathematics and data sciences 
 at Ecole Polytechnique, where I co-founded the Artificial 
 Intelligence Alumni Association (AlumnIA).
@@ -41,7 +40,7 @@ If you would like to contact me, you can find my CV and contact details here ⬇
 
 [[params.socialIcons]]
 name = "cv"
-url = "<static/files/CV_fannyjourdan.pdf>"
+url = "https://github.com/fanny-jourdan/fanny-jourdan.github.io/blob/b0c13908487d7bd8bd244d07f9b53d2faeaf39d8/static/files/CV_fannyjourdan.pdf"
 
 [[params.socialIcons]]
 name = "email"
