@@ -42,6 +42,7 @@ If you would like to contact me, you can find my CV and contact details here ⬇
 name = "cv"
 url = "/static/files/CV_fannyjourdan.pdf"
 
+
 [[params.socialIcons]]
 name = "email"
 url = "mailto:fanny.jourdan@irit.fr"
