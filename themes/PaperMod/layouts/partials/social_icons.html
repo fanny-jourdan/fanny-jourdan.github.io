@@ -2,7 +2,7 @@
     {{- range . }}
     {{- if eq .name "cv" }}
     <a href="{{ .url }}" download="{{ .name }}" target="_blank" rel="noopener noreferrer me" title="{{ .name }}">
-        {{ partial "svg.html" . }}
+        {{ partial "svg" . }}
     </a>
     {{- else }}
         <a href="{{ trim .url " " }}" target="_blank" rel="noopener noreferrer me" title="{{ (.title | default .name) | title }}">
