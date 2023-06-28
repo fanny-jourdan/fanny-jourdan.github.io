@@ -40,7 +40,7 @@ If you would like to contact me, you can find my CV and contact details here ⬇
 
 [[params.socialIcons]]
 name = "cv"
-url = "#"
+url = "/static/files/CV_fannyjourdan.pdf"
 
 [[params.socialIcons]]
 name = "email"
