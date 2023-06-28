@@ -15,18 +15,22 @@ theme = "PaperMod"
 [params.homeInfoParams]
 Title = "Hi! My name is Fanny Jourdan."
 Content ='''
-I am PhD <br /> Student in mathematics and computer science at Institut
+I am PhD Student in mathematics and computer science at Institut
 de Recherche en Informatique de Toulouse and Artificial and
 Natural Intelligence Toulouse Institut.
 I'm also a member of the brilliant DEEL team 🤩.
 My two amazing supervisors are Nicholas Asher and Laurent Risser.
 My interest topics are Fairness, Explainability and Robustness of 
 Natural Language Processing algorithms.
+
+
 Previously I did a master’s in mathematics and data sciences 
 at Ecole Polytechnique, where I co-founded the Artificial 
 Intelligence Alumni Association (AlumnIA).
 Then I did another master’s in digital economics and innovation
-at Paris-Dauphine University.I'm committed to the fight against
+at Paris-Dauphine University.
+
+I'm committed to the fight against
 gender inequality in STEM 🤖 (see: ANITI's gender equality commission and women and mathematics association). In my spare time,
 I practice crossfit and weightlifting.
 I also danced ballet for over 17 years before that. 
