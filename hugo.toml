@@ -44,7 +44,7 @@ imageHeight = 250
 
 [[params.socialIcons]]
 name = "cv"
-url = "/files/CV_fannyjourdan.pdf"
+url = "https://github.com/fanny-jourdan/fanny-jourdan.github.io/blob/37d3bcb35d38d6878bfb783bd3caaf1f94d33abf/static/files/CV_fannyjourdan.pdf"
 
 [[params.socialIcons]]
 name = "email"
