@@ -66,3 +66,14 @@ div.highlight:hover .copy-code,
 pre:hover .copy-code {
     display: block;
 }
+
+
+/* Nouvelle règle pour la couleur des liens */
+a {
+    color: blue; /* Changez cette couleur selon vos préférences */
+}
+
+/* Optionnel : style de survol pour les liens */
+a:hover {
+    color: darkblue; /* Changez cette couleur selon vos préférences */
+}
