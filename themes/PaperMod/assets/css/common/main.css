@@ -68,12 +68,13 @@ pre:hover .copy-code {
 }
 
 
-/* Nouvelle règle pour la couleur des liens */
+/* Style des liens */
 a {
-    color: blue; /* Changez cette couleur selon vos préférences */
+    color: #f0627b; /* Un rose clair */
 }
 
-/* Optionnel : style de survol pour les liens */
+/* Style de survol pour les liens */
 a:hover {
-    color: darkblue; /* Changez cette couleur selon vos préférences */
+    color: #b5354b; /* Un rose plus foncé en hexadécimal */
 }
+
