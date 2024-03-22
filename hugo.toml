@@ -15,13 +15,12 @@ theme = "PaperMod"
 enabled = true
 title = "Hi! My name is Fanny Jourdan."
 subtitle = '''
-I am PhD Student in mathematics and computer science at Institut
-de Recherche en Informatique de Toulouse and Artificial and
-Natural Intelligence Toulouse Institut.
-I'm also a member of the brilliant [DEEL](https://www.deel.ai) team 🤩.
-My two amazing supervisors are Nicholas Asher and Laurent Risser.
-My interest topics are Fairness, Explainability and Robustness of 
-Natural Language Processing algorithms.
+I'm a researcher in the [DEEL](https://www.deel.ai) team at the Technological Research Institut ([IRT](https://www.irt-saintexupery.com)) Saint Exupery in Toulouse. 
+🔍 My research topics are explainability (XAI), robustness and logic in Natural Language Processing (NLP) algorithms.
+
+I have just finished my PhD in mathematics and computer science at the Institut de Recherche en 
+Informatique de Toulouse and the Institut d'Intelligence Artificielle et Naturelle de Toulouse 
+under the supervision of Nicholas Asher and Laurent Risser.
 
 Previously I did a master’s in mathematics and data sciences 
 at École polytechnique, where I co-founded the Artificial 
