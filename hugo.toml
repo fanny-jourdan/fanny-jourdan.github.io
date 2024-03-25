@@ -47,7 +47,7 @@ url = "https://github.com/fanny-jourdan/fanny-jourdan.github.io/blob/main/static
 
 [[params.socialIcons]]
 name = "email"
-url = "mailto:fanny.jourdan@irit.fr"
+url = "mailto:fanny.jourdan@irt-saintexupery.com"
 
 [[params.socialIcons]]
 name = "googlescholar"
