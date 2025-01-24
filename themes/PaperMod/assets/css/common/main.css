@@ -79,3 +79,15 @@ a:hover {
     color: #b5354b; /* Un rose plus foncé en hexadécimal */
 }
 
+
+/* Additional section-specific alignment overrides */
+
+/* Align text in specific sections */
+#about, .section-about, .hero, .content {
+    text-align: left !important; /* Override for key sections */
+}
+
+/* Align all headings and paragraphs in the main container */
+.main h1, .main h2, .main h3, .main p, .main li {
+    text-align: left !important;
+}
