@@ -24,6 +24,7 @@ subtitle = '''
 ## About
 Hello! I’m **Fanny Jourdan**, a researcher in the [**DEEL**](https://www.deel.ai) team at the Technological Research Institute ([IRT](https://www.irt-saintexupery.com) Saint Exupéry) in Toulouse, France.  
 My work focuses on making Language Models more transparent and interpretable. In particular, I am interested in:
+
 ⚖️ Developing metrics and datasets to assess biases and hallucinations  
 🔍 Designing methods to explain model predictions  
 📊 Evaluating and benchmarking explainability techniques  
